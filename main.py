@@ -6,3 +6,6 @@ x=5
 y=2
 print(x-y)
 print(10+5)
+x=99
+y=101
+print(x*y)
